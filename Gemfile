@@ -22,6 +22,7 @@ gem "twitter-bootstrap-rails"
 gem 'font_awesome5_rails'
 gem 'simple_form'
 gem 'devise'
+gem 'auto_html', '~>1.6.4'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
